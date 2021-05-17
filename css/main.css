@@ -12052,17 +12052,18 @@ header .avatar-container i {
   font-size: 20px;
   color: #ff7f00;
 }
-header .profile-options-modal .profile-option-list {
+
+.profile-options-modal .profile-option-list {
   padding: 0;
   margin: 0;
   list-style: none;
 }
-header .profile-options-modal .profile-option-list li a {
+.profile-options-modal .profile-option-list li a {
   display: block;
   padding: 10px 0;
   color: #495057;
 }
-header .profile-options-modal .profile-option-list li a i {
+.profile-options-modal .profile-option-list li a i {
   display: inline-block;
   width: 10px;
   text-align: center;
